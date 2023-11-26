@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zhuoli Richard Zhang
 
-I'm a 3rd Year Advanced Science and Computer Science Student studying at UNSW.
+I'm a 5th Year Bachelor of Science and Computer Science Student studying at UNSW.
 Coding Experience:
 - C 
 - Python
